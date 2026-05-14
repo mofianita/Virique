@@ -8,7 +8,7 @@
 資料庫：SQLite 
 API：stable diuffsion、edge-tts、retrieval-based voice conversion、openAI、 yolov8、mediapipe、expression editor、ditto talking head 
 
-*本檔案不包含大型模型，系統中的模型請至hugging face網頁下載_https://huggingface.co/Ann0v0/Virique-Model/tree/main_
+*本檔案不包含大型模型，系統中的模型請至hugging face網頁下載https://huggingface.co/Ann0v0/Virique-Model/tree/main
 
 檔案名稱              存放路徑(專案跟目錄算起) 
 ------------------------------------------------------------------------------
@@ -26,4 +26,4 @@ pytorch_model.bin    backend/external/Applio/rvc/models/embedders/contentvec/
 1. git clone
 2. pip install -r requirements.txt
 3. 環境變數設定：請準備自己的 OpenAI Key 和 Google Cloud JSON
-4. 至hugging face連結_https://huggingface.co/Ann0v0/Virique-Model/tree/main_下載模型
+4. 至hugging face連結https://huggingface.co/Ann0v0/Virique-Model/tree/main下載模型
