@@ -1,0 +1,8 @@
+# 忽略所有大型模型檔
+
+backend/rvc/models/predictors/*
+backend/assets/Voice/Models/*
+backend/rvc/models/pretraineds/hifi-gan/*
+**/pytorch_model.bin
+TTS API Configuration.json
+**/__pycache__/
