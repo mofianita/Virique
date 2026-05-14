@@ -1,12 +1,13 @@
 【Virique唯伊】
 一個AI虛擬陪伴的軟體
 主打最貼近真實的陪伴，不僅可以讓使用者自行創建角色，還提供聊天室、視訊、回憶小舖等多種互動式功能，用來療育日常生活繁忙缺乏社交的每個人
-==================================================
+---------------------------------------------------------------------------------
+
 〔系統技術〕
-前端：react native 
-後端：flask 
-資料庫：SQLite 
-API：stable diuffsion、edge-tts、retrieval-based voice conversion、openAI、 yolov8、mediapipe、expression editor、ditto talking head 
+前端：react native
+後端：flask
+資料庫：SQLite
+API：stable diuffsion、edge-tts、retrieval-based voice conversion、openAI、 yolov8、mediapipe、expression editor、ditto talking head
 
 *本檔案不包含大型模型，系統中的模型請至hugging face網頁下載https://huggingface.co/Ann0v0/Virique-Model/tree/main
 
