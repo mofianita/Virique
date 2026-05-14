@@ -16,7 +16,7 @@
 1. git clone
 2. pip install -r requirements.txt
 3. 環境變數設定：請準備自己的 OpenAI Key 和 Google Cloud JSON
-4. 至hugging face連結 https://huggingface.co/Ann0v0/Virique-Model/tree/main 下載模型
+4. 至hugging face連結下載模型，放入資料夾中
 
 |檔案名稱             |存放路徑(專案跟目錄算起)                                   |
 |--------------------|---------------------------------------------------------|
